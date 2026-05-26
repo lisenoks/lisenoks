@@ -5,13 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADB5&center=true&vCenter=true&width=400&lines=RAII+%26+Move+Semantics;Async+Telegram+Bots;OpenGL+3D+Engine;Low‑Latency+C%2B%2B" />
 </p>
 
----
-
 ### ⚡ Core stack
 
 | Area | Key methods |
 |------|-------------|
-| **C++ (17/20)** | RAII, move semantics, smart pointers, custom allocators, memory pooling |
+| **C++ (2022)** | RAII, move semantics, smart pointers, custom allocators, memory pooling |
 | **Python** | asyncio, decorators, typing, dependency injection |
 | **aiogram bots** | FSM, middleware, webhooks, Redis/PostgreSQL |
 | **OpenGL** | shaders, VBO/VAO, camera systems, instancing |
