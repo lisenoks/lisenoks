@@ -25,16 +25,6 @@
 
 ---
 
-### 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisenoks&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00adb5&text_color=c9d1d9" width="350" />
-</p>
-
----
-
-### 🤝 Connect
-
 <p align="center">
   <a href="https://t.me/lisenokssss"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://github.com/lisenoks"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
